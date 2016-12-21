@@ -14,5 +14,4 @@ masterでのコミット
 
 取り消したい修正
 上記に追加してコミットしたい修正
-
-var _aray = [yo,whtas,up];
+var _aray = [yo,whtas,aa:up];
